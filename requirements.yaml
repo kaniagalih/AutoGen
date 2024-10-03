@@ -1,0 +1,23 @@
+name : autogen_venv
+
+channels:
+- python
+- defaults
+- conda-forge
+- anaconda
+- pytorch
+
+dependencies:
+#Essential
+- python==3.11.4
+- pip:
+    - pyautogen==0.2.35
+    - langsmith
+- chess==1.10.0
+- yfinance==0.2.38
+#Machine Learning
+- numpy==2.1.0
+- pandas==2.2.2
+- matplotlib==3.9.2
+- python-dotenv
+
