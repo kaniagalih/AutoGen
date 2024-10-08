@@ -1,7 +1,7 @@
 
 # Autogen Exploration 
 
-This repository is store anything related about Autogen. See the documentation (here)[https://microsoft.github.io/autogen/docs/Getting-Started/] 
+This repository is store anything related about Autogen. See the documentation [here](https://microsoft.github.io/autogen/docs/Getting-Started/)
 
 # Installation
 1. Clone the repository
