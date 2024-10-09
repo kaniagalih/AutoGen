@@ -13,6 +13,7 @@ dependencies:
 - pip:
     - pyautogen==0.2.35
     - langsmith
+    - langchain
 - chess==1.10.0
 - yfinance==0.2.38
 #Machine Learning
