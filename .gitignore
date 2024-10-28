@@ -2,3 +2,6 @@
 .cache
 __pycache__
 autogen_venv
+data_output.json
+expected_blog_sections.csv
+logs.db
